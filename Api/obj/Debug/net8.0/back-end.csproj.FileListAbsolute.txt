@@ -63,3 +63,4 @@ C:\Pedro Martins Senai\CodeLocker\Api\obj\Debug\net8.0\refint\back-end.dll
 C:\Pedro Martins Senai\CodeLocker\Api\obj\Debug\net8.0\back-end.pdb
 C:\Pedro Martins Senai\CodeLocker\Api\obj\Debug\net8.0\back-end.genruntimeconfig.cache
 C:\Pedro Martins Senai\CodeLocker\Api\obj\Debug\net8.0\ref\back-end.dll
+C:\Pedro Martins Senai\CodeLocker\Api\bin\Debug\net8.0\zxing.dll

@@ -15,7 +15,8 @@
           "Pomelo.EntityFrameworkCore.MySql": "8.0.2",
           "QRCoder": "1.4.1",
           "Swashbuckle.AspNetCore": "6.4.0",
-          "System.Drawing.Common": "9.0.4"
+          "System.Drawing.Common": "9.0.4",
+          "ZXing.Net": "0.16.8"
         },
         "runtime": {
           "back-end.dll": {}
@@ -490,6 +491,14 @@
             "fileVersion": "0.7.1.0"
           }
         }
+      },
+      "ZXing.Net/0.16.8": {
+        "runtime": {
+          "lib/net6.0/zxing.dll": {
+            "assemblyVersion": "0.16.8.0",
+            "fileVersion": "0.16.8.0"
+          }
+        }
       }
     }
   },
@@ -904,6 +913,13 @@
       "sha512": "sha512-Idgg+mJEyAujqDPzA3APy9dNoyw0YQcNA65GgYjktDRtJ+nvx/hv+J+m6Eax3JJMGEYGy04oc5YNP6ZvQ3Y1vQ==",
       "path": "zstdsharp.port/0.7.1",
       "hashPath": "zstdsharp.port.0.7.1.nupkg.sha512"
+    },
+    "ZXing.Net/0.16.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Cbbe+x7I7E+VJ0VxU1fPc7AktIw/9xea/ZY/fh38sXqTQ75LJp9ooGUjpzFqfpPfIKozAoXgJ4yvY4GzKpPBzQ==",
+      "path": "zxing.net/0.16.8",
+      "hashPath": "zxing.net.0.16.8.nupkg.sha512"
     }
   }
 }

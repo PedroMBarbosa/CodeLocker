@@ -12,6 +12,7 @@ namespace Api.Models
         public string? email { get;set; }
         public string? telefone{ get;set; }
         public string? senha { get;set; }
+        public string? qrcode { get;set; }
         public int tipo { get;set; }
     }
 }
